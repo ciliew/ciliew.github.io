@@ -1,3 +1,4 @@
-name: Cilie W. Feldager
+name: "Cilie W. Feldager"
 markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
