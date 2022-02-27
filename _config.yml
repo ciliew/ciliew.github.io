@@ -1,6 +1,6 @@
-name: "Cilie W. Feldager"
+name: Cilie
 markdown: kramdown
   input: GFM
   parse_block_html: true
 theme: minima
-permalink: /blog/:year/:month/:day/:title
+permalink: pretty
